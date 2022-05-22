@@ -1,5 +1,3 @@
-@file:Suppress("TYPE_INFERENCE_ONLY_INPUT_TYPES_WARNING")
-
 import kotlinx.html.*
 import kotlinx.html.stream.appendHTML
 import org.litote.kmongo.*
